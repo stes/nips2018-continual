@@ -14,25 +14,25 @@ This repository contains code to reproduce our two main experiments:
 
 In case you use code from this repository in your own work, please refer to our paper at the [NIPS 2018 Continual Learning Workshop](https://sites.google.com/view/continual2018):
 
-``
+```
 @misc{Schneider2018,
    title={Multi-Task Generalization and Adaptation between Noisy Digit Datasets: An Empirical Study},
    author={Schneider, Steffen and Ecker, Alexander S. and Macke, Jakob H. and Bethge, Matthias},
    year={2018},
    url={https://sites.google.com/view/continual2018}
 }
-``
+```
 
 Depending on which functionality you use, you might also have a look at the [salad]() toolbox for domain adaptation and transfer learning:
 
-``
+```
 @misc{schneider2018salad,
    title={Salad: A Toolbox for Semi-supervised Adaptive Learning Across Domains},
    author={Schneider, Steffen and Ecker, Alexander S. and Macke, Jakob H. and Bethge, Matthias},
    year={2018},
    url={https://openreview.net/forum?id=S1lTifykqm}
 }
-``
+```
 
 ## Trained Models
 
